@@ -147,12 +147,12 @@
         },
         "roles": [
           {
-            "name": "Site Manager",
+            "name": "JEFE DE OBRA",
             "startDate": "2014-07-01",
             "finishDate": "2016-09-30",
             "challenges": [
               {
-                "description": "Design, construction and maintenance of floors, coatings and pavements for industries, sports and car parks.\n- Commercial management: customer acquisition, monitoring, prospecting, segmentation. Closing of contracts with end customers.\n- Project management: analysis, planning, organization and control of resources and work costs. Coordination and control of subcontractor companies. Completion of projects within the period established by the client.\n"
+                "description": "Diseño, construcción y mantenimiento de pavimentos y revestimientos para la industria, deportes y aparcamientos.\n- Gestión comercial: captación de clientes, seguimiento, prospección, segmentación. Presentación de marca y productos. Cierre de contratos con clientes finales. \n- Gestión de proyectos: análisis, planificación, organización y control de recursos y costes de obra. Coordinación y control de empresas subcontratistas. Finalización de proyectos en plazo establecido por cliente"
               }
             ]
           }
