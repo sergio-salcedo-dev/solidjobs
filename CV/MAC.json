@@ -143,23 +143,6 @@
       },
       {
         "organization": {
-          "name": "Full-time "
-        },
-        "roles": [
-          {
-            "name": "INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L.",
-            "startDate": "2018-08-01",
-            "finishDate": "2019-10-31",
-            "challenges": [
-              {
-                "description": "Health and Safety Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Berco Europa SL "
         },
         "roles": [
@@ -170,6 +153,29 @@
             "challenges": [
               {
                 "description": "Design, construction and maintenance of floors, coatings and pavements for industries, sports and car parks.\n- Commercial management: customer acquisition, monitoring, prospecting, segmentation. Closing of contracts with end customers.\n- Project management: analysis, planning, organization and control of resources and work costs. Coordination and control of subcontractor companies. Completion of projects within the period established by the client.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "JEFE DE PRODUCCIÓN. Pavipor S.L. ",
+            "startDate": "2013-09-01",
+            "finishDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": "Diseño, construcción y mantenimiento de pavimentos y revestimientos para la industria, deportes y aparcamientos.\n- Gestión de proyectos: diseño y ejecución de pavimentos. Redacción de presupuestos. Diseñé y desarrollé un configurador de pavimentos propio para analizar costes (materiales, mano de obra y transporte) y beneficio de cada obra que me permitía reducir los tiempos de cálculo en un 50%."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
               }
             ]
           }
