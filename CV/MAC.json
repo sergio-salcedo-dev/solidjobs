@@ -345,6 +345,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Licenciado en Ciencias Ambientales",
+        "startDate": "2011-10-01",
+        "finishDate": "2012-06-01",
+        "institution": {
+          "name": "Universidad Alfonso X “El Sabio”"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Ingeniero de Caminos, Canales y Puertos",
         "startDate": "2005-10-01",
         "finishDate": "2011-10-01",
