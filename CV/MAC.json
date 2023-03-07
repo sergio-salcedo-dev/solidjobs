@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -92,16 +91,51 @@
       },
       {
         "organization": {
-          "name": "Escudo Web Software S.L. "
+          "name": "Escudo Web Software S.L. ",
+          "URL": "https://escudoweb.com/"
         },
         "roles": [
           {
-            "name": "Junior Full Stack Web Developer",
+            "name": "Junior Web Developer",
             "startDate": "2021-04-01",
-            "finishDate": "2021-06-30",
+            "finishDate": "2021-07-01",
             "challenges": [
               {
-                "description": "Development and web design. Natural web positioning (SEO). Multilanguage website."
+                "description": "Desarrollo, integración y comercialización de soluciones software. \n- Desarrollo y diseño de sitio web multilenguaje aplicando posicionamiento web natural (SEO).\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
               }
             ]
           }
@@ -163,12 +197,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -331,7 +363,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
