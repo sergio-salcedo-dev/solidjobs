@@ -27,15 +27,98 @@
     "jobs": [
       {
         "organization": {
-          "name": "Printful "
+          "name": "Printful ",
+          "URL": "https://www.printful.com"
         },
         "roles": [
           {
-            "name": "Junior Full Stack Web Developer (PHP / Vue)",
+            "name": "Junior Web Developer (PHP / Vue)",
             "startDate": "2021-09-01",
             "challenges": [
               {
-                "description": "- Web software developer and code reviewer in the SaaS team. Maintenance and development of features related to premium subscription plans, challenges, loyalty points and advantages. \n- Technologies and tools: PHP 7.4, Yii2, Laravel, Vue 2, Bootstrap 4, MySQL, API REST, Docker, GitLab, Slack, Jira, Confluence, Figma, Miro, PhpStorm \n- Methodologies: SCRUM, SOLID, TDD."
+                "description": "Multinacional de servicios de impresión, almacenamiento y logística para clientes B2B y B2C de comercio electrónico. \n- Desarrollo de nuevas características y labores de mantenimiento. Revisor de código. Participación en proyectos:\n    •\tGamification: microservicios, PHP, Laravel, MySQL, JavaScript ES5 / ES6, Vue & Vuex, Docker.\n    •\tSaaS Features - Subscriptions: PHP, Yii2, MySQL, Metabase, API REST, GraphQL, Docker. \n    •\tUpselling Subscriptions: JavaScript ES5 / ES6, Vue & Vuex, CSS / SASS, Bootstrap.\n- Herramientas: Git, GitLab, Slack, Jira, Confluence, Figma, PhpStorm.\n- Metodologías y buenas prácticas: SCRUM - Agile, Clean Code, SOLID, TDD, DRY, KISS, YAGNI.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SaaS",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "Yii",
+                "type": "technology"
               }
             ]
           }
