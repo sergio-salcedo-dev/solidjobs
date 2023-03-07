@@ -43,22 +43,6 @@
       },
       {
         "organization": {
-          "name": "Oct 2016 - Aug 2018 "
-        },
-        "roles": [
-          {
-            "name": "Health and Safety Coordinator",
-            "startDate": "2023-01-31",
-            "challenges": [
-              {
-                "description": "Health and Safety Coordinator"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Printful "
         },
         "roles": [
@@ -119,6 +103,29 @@
               },
               {
                 "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ingeniería y Prevención de Riesgos S.L.        "
+        },
+        "roles": [
+          {
+            "name": "COORDINADOR DE SEGURIDAD Y SALUD",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Coordinación y asistencia técnica en materia de seguridad y salud de obras de construcción. \n- Interlocución y organización con los distintos agentes que participan en las obras, gestión de equipos y asignación de tareas, establecimiento de metodología de trabajo, planificación de trabajos, supervisión de obras mediante visitas, elaboración, análisis, gestión y aprobación de documentación.\n- He trabajado en proyectos de Promotores como ADIF, NATURGY, REINTEL, METRO DE BARCELONA, FC BARCELONA"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
                 "type": "technology"
               }
             ]
