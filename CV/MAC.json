@@ -345,6 +345,16 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web (DAW)",
+        "startDate": "2019-10-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "IES Ribera del Tajo"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Licenciado en Ciencias Ambientales",
         "startDate": "2011-10-01",
         "finishDate": "2012-06-01",
