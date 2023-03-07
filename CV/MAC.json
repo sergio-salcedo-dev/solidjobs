@@ -27,22 +27,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "TBD"
-        },
-        "roles": [
-          {
-            "name": "TBD",
-            "startDate": "2023-01-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Printful "
         },
         "roles": [
