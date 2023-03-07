@@ -8,12 +8,12 @@
     "profile": {
       "name": "Sergio",
       "surnames": "Salcedo Merino ",
-      "title": "Mid full stack web developer",
+      "title": "PHP Developer",
       "description": "",
       "location": {
         "country": "España",
-        "region": "Castilla-La Mancha",
-        "municipality": "Talavera de la Reina",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
         "notes": "Autocompleted using Google Maps API"
       }
     },
