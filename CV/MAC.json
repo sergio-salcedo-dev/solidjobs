@@ -1,0 +1,295 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sergio",
+      "surnames": "Salcedo Merino ",
+      "title": "Mid full stack web developer",
+      "description": "",
+      "location": {
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Talavera de la Reina",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergio-salcedo-merino-iccp-daw"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TBD"
+        },
+        "roles": [
+          {
+            "name": "TBD",
+            "startDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aug 2018 - Oct 2019 "
+        },
+        "roles": [
+          {
+            "name": "Health and Safety Manager",
+            "startDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "Health and Safety Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oct 2016 - Aug 2018 "
+        },
+        "roles": [
+          {
+            "name": "Health and Safety Coordinator",
+            "startDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "Health and Safety Coordinator"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Printful "
+        },
+        "roles": [
+          {
+            "name": "Junior Full Stack Web Developer (PHP / Vue)",
+            "startDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "- Web software developer and code reviewer in the SaaS team. Maintenance and development of features related to premium subscription plans, challenges, loyalty points and advantages. \n- Technologies and tools: PHP 7.4, Yii2, Laravel, Vue 2, Bootstrap 4, MySQL, API REST, Docker, GitLab, Slack, Jira, Confluence, Figma, Miro, PhpStorm \n- Methodologies: SCRUM, SOLID, TDD."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escudo Web Software S.L. "
+        },
+        "roles": [
+          {
+            "name": "Junior Full Stack Web Developer",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "Development and web design. Natural web positioning (SEO). Multilanguage website."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "INGENIERÍA Y PREVENCIÓN DE RIESGOS, S.L.",
+            "startDate": "2018-08-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Health and Safety Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Berco Europa SL "
+        },
+        "roles": [
+          {
+            "name": "Site Manager",
+            "startDate": "2014-07-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "Design, construction and maintenance of floors, coatings and pavements for industries, sports and car parks.\n- Commercial management: customer acquisition, monitoring, prospecting, segmentation. Closing of contracts with end customers.\n- Project management: analysis, planning, organization and control of resources and work costs. Coordination and control of subcontractor companies. Completion of projects within the period established by the client.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Z Hotel Piccadilly "
+        },
+        "roles": [
+          {
+            "name": "Guest Service Assistant",
+            "startDate": "2012-09-01",
+            "finishDate": "2013-09-30",
+            "challenges": [
+              {
+                "description": "I assisted in the smooth running of the hotel operation on a day-to-day basis; providing excellent guest service in all areas of the hotel. I was mentioned numerous times on Booking and TripAdvisor for my excellent customer service."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sergio-salcedo-merino-iccp-daw"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Amplitude",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHPunit",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "REST",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
